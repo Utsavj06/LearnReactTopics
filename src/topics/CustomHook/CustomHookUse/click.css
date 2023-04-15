@@ -1,0 +1,11 @@
+.btn {
+    background-color: red;
+    position: absolute;
+  }
+  .btnDiv {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
